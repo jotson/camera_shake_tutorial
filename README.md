@@ -1,6 +1,6 @@
 # Camera Shake Example
 
-<img src="/jotson/camera_shake_tutorial/raw/main/preview.gif" alt="Preview" style="max-width:100%;">
+<img src="/jotson/camera_shake_tutorial/blob/main/preview.gif?raw=true" alt="Preview" style="max-width:100%;">
 
 This tutorial shows how I do screen shake in Godot Engine for my game Gravity Ace. I walk you through all of the code line by line. I also cover 3 different algorithms for implementing the actual screen shake and include a demo project that you can download from Github to use in your own games.
 

@@ -6,7 +6,7 @@ This tutorial shows how I do screen shake in Godot Engine for my game Gravity Ac
 
 Tutorial video: https://youtu.be/kLqPr3eqAyo
 
-The runs in Godot Engine but the concepts are universal.
+The demo runs in Godot Engine but the concepts are universal.
 
 Use this however you like but please do not send pull requests.
 
